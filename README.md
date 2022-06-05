@@ -18,6 +18,7 @@ To change the email address sending the content list, add another email address 
 - [Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [Requests](https://requests.readthedocs.io/en/latest/)
 - [Yagmail](https://yagmail.readthedocs.io/en/latest/)
+
 see requirements.txt for full list
 
 ## Roadmap/Extensions
