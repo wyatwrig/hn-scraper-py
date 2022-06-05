@@ -2,7 +2,10 @@
  
 This project scrapes the front page of hacker news using python and sends an email of the titles to a users email address.
 
-![hacker news homepage](./img/hackernews.png) | ![email of links](./img/email.jpg)
+<table><tr>
+<td> <img src="./img/hackernews.png" alt="hacker news homepage" style="width: 250px;"/> </td>
+<td> <img src="./img/email.jpg" alt="email of links" style="width: 250px;"/> </td>
+</tr></table>
 
 ## Usage
 This project depends on creating a google cloud project in order to enable the gmail API and get Oauth client and secret keys. For more details on that process, read this [stackoverflow post.](https://stackoverflow.com/a/72346413/9991592)
