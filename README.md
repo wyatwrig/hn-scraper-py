@@ -3,8 +3,8 @@
 This project scrapes the front page of hacker news using python and sends an email of the titles to a users email address.
 
 <table><tr>
-<td> <img src="./img/hackernews.png" alt="hacker news homepage" style="width: 250px;"/> </td>
-<td> <img src="./img/email.jpg" alt="email of links" style="width: 250px;"/> </td>
+<td> <img src="./img/hackernews.png" alt="hacker news homepage" style="width: 50%;"/> </td>
+<td> <img src="./img/email.jpg" alt="email of links" style="width: 50%;"/> </td>
 </tr></table>
 
 ## Usage
